@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     const fooStyle={
-        color:'rgb(229, 9, 20)'
+        color:'rgb(75, 75, 75)'
     }
 
     return (
@@ -10,8 +10,9 @@ const Footer = () => {
         
 			 <div  className="row">
                 <p style={fooStyle}>
-                © All Copyrights Reserved 2020  |  ALl rights Reserved | Terms of service | Privacy
+               <i> © All Copyrights Reserved 2020  |  ALl rights Reserved | Terms of service | Privacy</i>
 				</p>
+               
 			 </div>
 		 </div>
        

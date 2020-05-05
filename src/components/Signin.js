@@ -21,7 +21,7 @@ export default class Signin extends Component{
 				        <div class="box-input">
 					        <input type="email" name="email" placeholder="Enter your Email" required />
 					<input type="password" name="password" placeholder="Enter your password" required />
-					<button type="submit">SUBMIT</button>
+					<button type="submit">SIGN IN</button>
                     </div>
 			</form>
 		</div>
